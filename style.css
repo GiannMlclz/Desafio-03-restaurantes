@@ -1,5 +1,6 @@
 body {
     background-color: rgb(40, 150, 136);
+    text-align: center;
 }
 
 #titulo {
@@ -8,3 +9,69 @@ body {
     text-align: center;
     font-size: 50px;
 }
+
+.Barcelona-1 {
+    padding: 8px;
+    margin: 2px;
+    background-color: white;
+}
+.BA-2 {
+    padding: 8px;
+    margin: 2px;
+    background-color: white;
+}
+
+.Madrid-3 {
+    padding: 8px;
+    margin: 2px;
+    background-color: white;
+}
+.Miami-4 {
+    padding: 8px;
+    margin: 2px;
+    background-color: white;
+}
+.Paris-5 {
+    padding: 8px;
+    margin: 2px;
+    background-color: white;
+}
+
+.Pipa-6 {
+    padding: 8px;
+    margin: 2px;
+    background-color: white;
+}
+
+.Janeiro-7 {
+    padding: 8px;
+    margin: 2px;
+    background-color: white;
+}
+
+.Roma-8 {
+    padding: 8px;
+    margin: 2px;
+    background-color: white;
+}
+
+.Rosario-9 {
+    padding: 8px;
+    margin: 2px;
+    background-color: white;
+}
+
+.Tokio-10 {
+    padding: 8px;
+    margin: 2px;
+    background-color: white;
+}
+
+.ancho-altura {
+    width: auto;
+    height: 180px;
+    margin: 4px ;
+}
+
+
+
